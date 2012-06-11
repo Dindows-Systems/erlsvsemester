@@ -1,0 +1,28 @@
+.subtxt {
+	font-family: verdana;
+	font-size: 12px;
+	line-height: 19px;
+	color: #000000;
+	text-decoration: none;
+	text-align: justify;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+h1 {
+	font-family: arial;
+	font-size: 21px;
+	line-height: 20px;
+	color: #FF0000;
+	text-decoration: none;
+	text-align: center;
+}
+
+.hometxt {
+	font-family: arial;
+	font-size: 12px;
+	line-height: 17px;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: left;
+	padding-left: 3px;
+}
